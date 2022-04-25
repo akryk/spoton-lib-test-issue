@@ -1,0 +1,26 @@
+{
+  "name": "spoton-lib-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-scripts test --colors --verbose --testNamePattern=Chips"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3",
+    "spoton-lib": "^2.27.0"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^7.30.4",
+    "@testing-library/react-hooks": "^7.0.2",
+    "@testing-library/user-event": "^13.1.9",
+    "typescript": "^4.3.5",
+    "jest-canvas-mock": "^2.3.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
